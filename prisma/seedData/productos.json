@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Laptop",
+    "codigo": "PROD001",
+    "categoriaId": 1,
+    "proveedorId": 1,
+    "precio": 1500.5,
+    "cantidad": 10,
+    "minStock": 5
+  },
+  {
+    "nombre": "Martillo",
+    "codigo": "PROD002",
+    "categoriaId": 2,
+    "proveedorId": 2,
+    "precio": 25.75,
+    "cantidad": 50,
+    "minStock": 10
+  }
+]

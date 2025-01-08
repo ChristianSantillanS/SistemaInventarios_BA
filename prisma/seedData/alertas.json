@@ -1,0 +1,12 @@
+[
+  {
+    "productoId": 1,
+    "fecha": "2024-01-01T00:00:00.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "productoId": 2,
+    "fecha": "2024-01-02T00:00:00.000Z",
+    "estado": "resuelto"
+  }
+]
