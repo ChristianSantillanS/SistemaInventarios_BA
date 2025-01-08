@@ -7,7 +7,7 @@
   "scripts": {
     "seed": "node --loader ts-node/esm prisma/seed.ts",
     "build": "rimraf dist && npx tsc",
-    "start": "npm run build && node dist/app.js",
+    "start": "npm run build && node dist/src/app.js",
     "dev": "concurrently \"npm run build --watch\" \"npx tsc -w\" \"nodemon --exec \\\"node --loader ts-node/esm\\\" src/app.ts\""
   },
   "dependencies": {
